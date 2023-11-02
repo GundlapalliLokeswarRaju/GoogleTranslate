@@ -1,0 +1,14 @@
+googletrans:-
+
+        Googletrans can be install in pycharm. Firstly open a terminal in pycharm and type "pip install googletrans", Then automatically googletrans is installed. This requirement is used to you can translate text, handwriting photos, and speech in over 100 languages with the Google Translate app.
+
+Translator :-
+	A Machine Translation tool automatically translates text or speech fro one language to another using algorithms and language models.
+
+speech_recognition :-
+	Speech recognition software can translate spoken words into text using closed captions to enable a person with hearing loss to understand what others are saying. Speech recognition can also enable those with limited use of their hands to work with computers, using voice commands instead of typing.
+ 
+gTTS :-
+	The gTTS (Google Text-to-Speech) library is a powerful tool for converting text to speech in Python. With gTTS, you can easily add speech functionality to your Python scripts, allowing you to create audio files from any text.
+
+
